@@ -1,0 +1,6 @@
+- Jumping out of water rubberbands sometimes
+- Riptide Trident got flagged by FlyA
+- JesusA wasnt working correctly and didnt flag
+- Jumping in water with a plant under you flagged FlyA
+- added better Packet checks for FlyA
+- i dont know why but i created a new isActuallyOnGround method in JesusA but there is already one in the Context

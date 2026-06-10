@@ -1,0 +1,17 @@
+name: xoxo-AntiCheat
+version: '1.0.4'
+main: com.xoxoac.XoxoAnticheat
+api-version: '1.21'
+author: xoxo-AntiCheat Team
+description: A highly optimised AntiCheat with Tick Flags, Violation Levels, auto Ban and exception List
+
+commands:
+  xoxo:
+    description: Main Anticheat Command
+    permission: xoxoac.admin
+    usage: /xoxo <help|exceptions|violations|alerts>
+
+permissions:
+  xoxoac.admin:
+    description: Full acces to the Plugin
+    default: op
